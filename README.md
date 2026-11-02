@@ -20,7 +20,4 @@
 
 <div align="center">
 
-### ⚡ Activity & Vibe
-
-
 </div>
