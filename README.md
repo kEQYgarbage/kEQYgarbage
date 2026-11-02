@@ -22,6 +22,5 @@
 
 ### ⚡ Activity & Vibe
 
-[📈 Activity](https://github.com/kEQYgarbage?tab=overview) &nbsp;•&nbsp; [📦 Repositories](https://github.com/kEQYgarbage?tab=repositories) &nbsp;•&nbsp; [⭐ Stars](https://github.com/kEQYgarbage?tab=stars) &nbsp;•&nbsp; [🔥 Streak](https://streak-stats.demolab.com/?user=kEQYgarbage)
 
 </div>
